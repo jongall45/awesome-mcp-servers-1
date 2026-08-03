@@ -161,7 +161,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [perrymanuk/radbot](https://github.com/perrymanuk/radbot): RadBot is a self-hosted AI agent designed for homelab environments, offering memory persistence, service integrations, and home automation control via the MCP protocol.
 - [NoxFr/jira-mcp-server](https://github.com/NoxFr/jira-mcp-server): Facilitates seamless synchronization and interaction with Jira data through an MCP interface, supporting both SSE and stdio communication modes.
 - [kukapay/bridge-rates-mcp](https://github.com/kukapay/bridge-rates-mcp): Delivers real-time cross-chain bridge rates and optimal transfer routes for onchain AI agents.
-- [goldenhomeshare/my-full-stack-app](https://github.com/goldenhomeshare/my-full-stack-app): A production-ready Next.js template with integrated authentication, Stripe payments, and Supabase, featuring AI-powered development capabilities through MCP.
 - [mia303/remote-mcp-server-authless](https://github.com/mia303/remote-mcp-server-authless): Deploy a remote MCP server on Cloudflare Workers without authentication, enabling seamless integration with Cloudflare AI Playground and local MCP clients.
 - [nbbaier/remote-mcp-server-authless](https://github.com/nbbaier/remote-mcp-server-authless): Deploy a remote MCP server on Cloudflare Workers without authentication, enabling seamless integration with Cloudflare AI Playground and local MCP clients.
 - [DSchau/coingecko-mcp-demo](https://github.com/DSchau/coingecko-mcp-demo): A Postman Agent Generator-based MCP server that automates API tool exposure for MCP-compatible clients, with Docker support for production deployment.
@@ -195,7 +194,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [tiovikram/gumloop-mcp](https://github.com/tiovikram/gumloop-mcp): Facilitates AI-driven automation management via Gumloop's API, offering flow management, workspace discovery, and file operations.
 - [samharshe/arweave-storage-sdk-mcp-server](https://github.com/samharshe/arweave-storage-sdk-mcp-server): Integrates MCP hooks with the Arweave Storage SDK for enhanced storage capabilities.
 - [ashwinjo/l23-chatbot-streamlit](https://github.com/ashwinjo/l23-chatbot-streamlit): The repository provides a unified client library to connect any LLM to MCP servers, enabling the creation of custom agents with tool access.
-- [elwrush/elwrush-mcp-server](https://github.com/elwrush/elwrush-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [madupay/mcp-sanctions](https://github.com/madupay/mcp-sanctions): A sanctions screening API server utilizing OFAC API for risk assessments, ready for Claude integration.
 - [ashwinjo/ixnetworkmanagement-mcp](https://github.com/ashwinjo/ixnetworkmanagement-mcp): A FastAPI application providing real-time IxNetwork chassis inventory and metrics via a REST API with MCP integration.
 - [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama): A Python client for interacting with MCP servers using Ollama, enabling local LLMs to utilize tools.
@@ -304,7 +302,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [revit-mcp/revit-mcp-python](https://github.com/revit-mcp/revit-mcp-python): Facilitates AI-driven interactions with Revit projects using the MCP protocol, enabling data retrieval and element manipulation.
 - [rinofitochs/plataforma-mcp](https://github.com/rinofitochs/plataforma-mcp): Integrates AI assistants with Odoo ERP systems via the Model Context Protocol, providing seamless access to Odoo data and functionality.
 - [Sirjoshodevelops/Main-Mem0--center-MCP](https://github.com/Sirjoshodevelops/Main-Mem0--center-MCP): A template MCP server integrated with Mem0 to provide AI agents with persistent memory capabilities through semantic search.
-- [etanlightstone/domino_mcp_server](https://github.com/etanlightstone/domino_mcp_server): Facilitates interaction with Domino Data Lab through Cursor, enabling job execution and status checks directly from the chat interface.
 - [mkusaka/cloudflare-workers-remote-mcp-uuid-kuji](https://github.com/mkusaka/cloudflare-workers-remote-mcp-uuid-kuji): A remote MCP server on Cloudflare Workers offering standardized UUID generation tools for AI assistants and other applications.
 - [lgazo/drawio-mcp-server](https://github.com/lgazo/drawio-mcp-server): Facilitates AI-driven diagram creation and management by integrating Draw.io's capabilities with MCP-compliant systems.
 - [jeyanthanperiyasamy/jey-mcp-server](https://github.com/jeyanthanperiyasamy/jey-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
@@ -319,7 +316,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [nkwa/pay-js](https://github.com/nkwa/pay-js): Facilitates mobile money integration with AI applications by exposing SDK methods as tools for MCP server invocation.
 - [xuyuanzhang1122/remote-mcp-server](https://github.com/xuyuanzhang1122/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [pongpisit/remote-mcp-server](https://github.com/pongpisit/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with tools like Claude Desktop.
-- [happy-shine/my-mcp-server](https://github.com/happy-shine/my-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [nvsecurity/nightvision-mcp](https://github.com/nvsecurity/nightvision-mcp): Enables AI assistants to interact with the NightVision security platform for comprehensive security testing and vulnerability analysis.
 - [vitthalr/github-copilot-talk-to-figma-mcp](https://github.com/vitthalr/github-copilot-talk-to-figma-mcp): Facilitates seamless integration between GitHub Copilot and Figma, enabling programmatic design modifications via a TypeScript MCP server and WebSocket communication.
 - [bnb-chain/bnbchain-mcp](https://github.com/bnb-chain/bnbchain-mcp): Facilitates AI-driven interactions with BNB Chain and other EVM-compatible networks for blockchain development and management.
@@ -349,7 +345,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [buildorian/monad-mpc-mission](https://github.com/buildorian/monad-mpc-mission): Facilitates querying MON token balances on the Monad testnet via an MCP server integrated with Claude Desktop.
 - [keerthanenr/remote-mcp-server](https://github.com/keerthanenr/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [ivanlhz/gmail-mcp-server](https://github.com/ivanlhz/gmail-mcp-server): Facilitates Gmail API exposure via MCP for seamless integration with LLMs and environments like Claude Desktop.
-- [evanmschultz/memcp](https://github.com/evanmschultz/memcp): MemCP empowers AI coding agents with a dynamic memory server to build and query temporal knowledge graphs, enhancing IDE context support.
 - [frocher/sigovenoi_mcp](https://github.com/frocher/sigovenoi_mcp): Facilitates access to coding rules and examples across various themes through a configurable MCP server.
 - [AyushRatan1/Mcp-polymarket](https://github.com/AyushRatan1/Mcp-polymarket): Facilitates real-time interaction with prediction markets through Claude Desktop integration, leveraging Polymarket API for data analysis and insights.
 - [marcosventosa/mcp-esios](https://github.com/marcosventosa/mcp-esios): Access REE ESIOS API data through MCP tools with Docker and UV integration options.
